@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html Lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title> modify DOM Elements</title>
+        <!-- view port meta tag-->
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            .highlight-color{
+                background-color: yellow;
+            }
+            .big-text{
+                font-size: 124px;
+            }
+        </style>
+    </head>
+    <body> 
+        <h1 id="headTitle">PLP Hello DOM tittle</h1>
+        <p id="description">this is a paragraph</p>
+        
+        <script src="DOm-script.js"></script>
+
+    </body>
+ 
